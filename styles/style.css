@@ -92,7 +92,7 @@
   .card__image-label {
     text-shadow: none;
     -webkit-text-stroke: 0.5px var(--main-theme-color);
-    text-shadow: 0.5px var(--main-theme-color);
+    text-stroke: 0.5px var(--main-theme-color);
   }
 }
 .card__image {
