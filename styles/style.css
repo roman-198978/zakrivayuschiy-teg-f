@@ -122,6 +122,7 @@
   align-items: center;
   cursor: pointer;
   height: 38px;
+  padding:0;
 }
 .card__icon-button:focus {
   outline: none;
@@ -138,6 +139,7 @@
   color: var(--button-text-color);
   position: relative;
   cursor: pointer;
+  appearance: none;
 }
 .button:focus {
   outline: none;
